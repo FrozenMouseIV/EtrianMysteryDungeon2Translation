@@ -1,6 +1,10 @@
 # EtrianMysteryDungeon2Translation
 A tool to translate Etrian Mystery Dungeon 2.
 
+![Intro](./Images/Photo1.png)
+
+![Result Screen](./Images/Photo2.png)
+
 ## Guide to use
 Extract the romfs folder of the "Releases" GitHub section in a modded 3DS or an emulator with mod support.
 
