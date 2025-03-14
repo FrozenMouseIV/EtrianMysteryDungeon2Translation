@@ -2,7 +2,7 @@
 A tool to translate Etrian Mystery Dungeon 2.
 
 ## Guide to use
-Extract the romfs folder of the release in a modded 3DS or an emulator with mod support.
+Extract the romfs folder of the "Releases" GitHub section in a modded 3DS or an emulator with mod support.
 
 ## Instructions
 * Install Python 3.12.
