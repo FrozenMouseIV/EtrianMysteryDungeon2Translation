@@ -10,6 +10,7 @@ Extract the romfs folder of the "Releases" GitHub section in a modded 3DS or an 
 
 ## Instructions
 * Install Python 3.12.
+* Install pythonnet "https://github.com/pythonnet/pythonnet"
 * Run main.py or translate.py.
 
 ## Guide to make a mod
@@ -30,3 +31,5 @@ Extract the romfs folder of the "Releases" GitHub section in a modded 3DS or an 
 
 ## Credits
 Based in the work from Evan Dixon (https://github.com/evandixon/SkyEditor.ROMEditor).
+
+Special thanks to psy_commando for the documentation.

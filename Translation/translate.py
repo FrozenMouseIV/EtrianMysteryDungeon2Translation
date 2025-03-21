@@ -24,7 +24,7 @@ def translate(texto):
     if texto is not None:
         inputs = tokenizer1.encode(texto, return_tensors="pt").to(device)
         with torch.no_grad():
-            outputs = model1.generate(inputs, num_beams=4, max_length=10, early_stopping=True)
+            outputs = model1.generate(inputs, num_beams=4, max_length=8, early_stopping=True)
             translated_text = tokenizer1.decode(outputs[0], skip_special_tokens=True)
     return translated_text
 
