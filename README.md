@@ -32,4 +32,8 @@ Extract the romfs folder of the "Releases" GitHub section in a modded 3DS or an 
 ## Credits
 Based in the work from Evan Dixon (https://github.com/evandixon/SkyEditor.ROMEditor).
 
+The python file uses the dll from the "SkyEditor" from Evan Dixon.
+
+The goal of the project was to add more option of exporting and importing the data of the .bin files of the original SkyEditor.
+
 Special thanks to psy_commando for the documentation.
